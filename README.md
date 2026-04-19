@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Rohit Gupta.
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=600&color=8A2BE2&width=600&lines=Third+Year+Computer+Science+Student;Full+Stack+Developer+%7C+Software+Engineer;Passionate+Coder+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80)
+
 I’m a passionate developer who enjoys building data‑driven and scalable solutions, from backend APIs to analytics and automation workflows. I love exploring new technologies, solving real‑world problems, and continuously improving my craft.
 
 
